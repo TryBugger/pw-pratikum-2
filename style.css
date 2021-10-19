@@ -67,10 +67,10 @@ body {
 }
 
 .fotoprofil {
-    height: 220px;
-    width: 140px;
+    height: 260px;
+    width: 150px;
     position: relative;
-    top: 25%;
+    top: 10%;
     float: right;
-    margin-right: 25px;
+    margin-right: 75px;
 }
